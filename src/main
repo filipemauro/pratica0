@@ -1,0 +1,6 @@
+#include<p18f45k20.h>
+
+void main(){
+	while(1);
+	
+}
